@@ -145,6 +145,7 @@ $( document ).ready(function() {
             ['sumGold', sumGold],
             ['sumRetail', sumRetail]
         ]);
+        alert('!!! Check console panel !!!')
         console.log(result);
     })
 });
